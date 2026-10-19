@@ -47,14 +47,6 @@ Checking a network for vulnerabilities by hand means running a scanner, searchin
 - **Persistent scan history** stored in PostgreSQL through SQLAlchemy
 - **REST API** built with Flask, connecting the app, scanner and database
 
-## Screenshots
-
-<!-- Add 3 to 4 screenshots to a /docs/screenshots folder and update the paths below -->
-
-| Home | Scan in progress | Results | Remediation |
-|------|------------------|---------|-------------|
-| ![Home](docs/screenshots/home.png) | ![Scan](docs/screenshots/scan.png) | ![Results](docs/screenshots/results.png) | ![Remediation](docs/screenshots/remediation.png) |
-
 ## Architecture
 
 ```
