@@ -164,7 +164,7 @@ Results are sorted so administrators can fix critical and high-severity issues f
 ## Project Structure
 
 ```
-[repository-name]/
+[NVS]/
 |-- backend/
 |   |-- app/
 |   |   |-- routes/          # API endpoints
