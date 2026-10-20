@@ -80,7 +80,6 @@ Checking a network for vulnerabilities by hand means running a scanner, searchin
 
 ## Getting Started
 
-> Adjust the commands below to match your repository.
 
 ### Prerequisites
 
@@ -92,8 +91,8 @@ Checking a network for vulnerabilities by hand means running a scanner, searchin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AwabAhmed-Os/[repository-name].git
-cd [repository-name]
+git clone https://github.com/AwabAhmed-Os/[NVS].git
+cd [NVS]
 ```
 
 ### 2. Set up the backend
