@@ -75,8 +75,8 @@ Checking a network for vulnerabilities by hand means running a scanner, searchin
 | Scanning | Nmap, `python-nmap` |
 | Risk scoring | CVSSLib (CVSS) |
 | Database | PostgreSQL, SQLAlchemy |
-| CVE data | [NVD / other source - fill in] |
-| AI guidance | [AI model or API used - fill in] |
+| CVE data | [NVD / other source] |
+| AI guidance | [AI model or API used] |
 
 ## Getting Started
 
